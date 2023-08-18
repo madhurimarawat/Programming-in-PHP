@@ -49,6 +49,35 @@ while($y>=1){
     $y--;
 }
 
+echo "<br><br>Half Pattern using while loop is: <br>";
+
+
+# Printing Half Pattern 
+$x=1;
+while($x<=5){
+    $y=1;
+    while($y<=$x){
+        $y++;
+        echo "* ";
+    }
+    $x++;
+    echo "<br>";
+}
+
+echo "<br><br>Inverted Half Pattern using while loop is: <br>";
+
+# Printing Inverse Pattern 
+$x=1;
+while($x<=5){
+    $y=5;
+    while($y>=$x){
+        $y--;
+        echo "* ";
+    }
+    $x++;
+    echo "<br>";
+}
+
 ?>
 </body>
 </html>
