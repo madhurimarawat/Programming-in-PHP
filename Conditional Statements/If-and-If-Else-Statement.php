@@ -27,7 +27,7 @@ if($a>78){
     echo "<p>Variable a $a is greater than 78</p>";
 }
 
-# If Statement
+# If Else Statement
 # It execute if block of code if condition is true and for false execute else block
 
 # Using if else statement
