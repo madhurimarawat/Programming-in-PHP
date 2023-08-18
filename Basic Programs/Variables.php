@@ -1,6 +1,8 @@
 <?php
 
 # Using PHP Only
+echo "Using Only PHP Code";
+
 # Variables are temporary storage spaces
 # When we create a variable operating system allocate memory according to the data size
 # Variable is an identifier,first declare then initialize
@@ -15,7 +17,7 @@ $gender="Female";
 $price= 23.4;
 
 # If we try to access variabe name without $ sign, it will give error
-echo "Variable c is: ",$c;
+echo "<br><br>Variable c is: ",$c;
 # echo "Variable c is: ",$C; Error as PHP is Case Sensitive
 
 # For printing variable name in echo we can use , or . (Using Multiple arguments)
@@ -67,12 +69,14 @@ echo "<br><br>Variable name with underscore is:",$First_name;
 <body>
 <?php
 
+echo "<br><br>Embedding PHP Code in HTML";
+
 $c=34;
 $gender="Female";
 $price= 23.4;
 
 # If we try to access variabe name without $ sign, it will give error
-echo "Variable c is: ",$c;
+echo "<br><br>Variable c is: ",$c;
 # echo "Variable c is: ",$C; Error as PHP is Case Sensitive
 
 # For printing variable name in echo we can use , or . (Using Multiple arguments)
