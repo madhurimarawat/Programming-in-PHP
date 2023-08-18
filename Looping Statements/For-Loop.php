@@ -9,7 +9,6 @@
     
 <?php
 
-
 # Loops are used to repeat a set of statements till a specific condition
 # For loop execute till condition is true
 # It stops after Condition is false
