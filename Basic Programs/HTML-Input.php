@@ -24,6 +24,10 @@
 <!-- Taking Input using PHP-->
 
 <?php
+
+# This will remove warning and error related to input
+error_reporting(0);
+
 # Since most of the time php is used for backend taking input from user is very important in php
 # $_POST and $_GET Super Global Array are used to get input from HTML Form
 
@@ -33,9 +37,12 @@ $email= $_POST['email'];
 $dob=$_POST['date'];
 $pic=$_POST['pic'];
 
-echo "<br>Name is: ",$name;
-echo "<br><br>Email is: ", $email;
-echo "<br>Date of Birth is: ",$dob;
+# In the start when input is not given it will give error or old information
+# To remove the error error_reporting is used
+
+echo "<p>Name is: $name </p>";
+echo "Email is: ", $email;
+echo "<br><br>Date of Birth is: ",$dob;
 echo "<br><br>Profile Picture is: ", $pic;
 
 # Using get(Just replace post with get)
