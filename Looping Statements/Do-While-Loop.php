@@ -49,7 +49,7 @@ do{
     $y--;
 }while($y>=1);
 
-echo "<br><br>Half Pattern using Do While loop is: <br>";
+echo "<br><br>Half Pattern using Do While loop is: <br><br>";
 
 
 # Printing Half Pattern 
@@ -64,7 +64,7 @@ do{
     echo "<br>";
 }while($x<=5);
 
-echo "<br><br>Inverted Half Pattern using Do While loop is: <br>";
+echo "<br><br>Inverted Half Pattern using Do While loop is: <br><br>";
 
 # Printing Inverse Pattern 
 $x=1;
@@ -77,6 +77,30 @@ do{
     $x++;
     echo "<br>";
 }while($x<=5);
+
+echo "<p>Fibonacci Series using Do While loop is: </p>";
+
+# Printing Fibonacci Series
+$f0=0;
+$f1=1;
+echo $f0."&nbsp;".$f1."&nbsp;";
+$n=5;
+$i=0;
+do{
+
+    # Calculating next term
+    $fn=$f0+$f1;
+
+    # Printing next term
+    echo $fn."&nbsp;";
+
+    # Storing value in variables
+    $f0=$f1;
+    $f1=$fn;
+
+    # Incrementing
+    $i++;
+}while($i<$n-2);
 
 ?>
 </body>
