@@ -40,7 +40,7 @@ for($y=10;$y>=1;$y--){
     echo $y." ";}
 }
 
-echo "<br><br>Half Pattern using For loop is: <br>";
+echo "<br><br>Half Pattern using For loop is: <br><br>";
 
 
 # Printing Half Pattern 
@@ -51,7 +51,7 @@ for($x=1; $x<=5; $x++){
     echo "<br>";
 }
 
-echo "<br><br>Inverted Half Pattern using For loop is: <br>";
+echo "<br><br>Inverted Half Pattern using For loop is: <br><br>";
 
 # Printing Inverse Pattern 
 for($x=1; $x<=5; $x++){
@@ -59,6 +59,26 @@ for($x=1; $x<=5; $x++){
         echo "* ";
     }
     echo "<br>";
+}
+
+echo "<p>Fibonacci Series using For loop is: </p>";
+
+# Printing Fibonacci Series
+$f0=0;
+$f1=1;
+echo $f0."&nbsp;".$f1."&nbsp;";
+$n=6;
+for($i=0;$i<$n-2;$i++){
+
+    # Calculating next term
+    $fn=$f0+$f1;
+
+    # Printing next term
+    echo $fn."&nbsp;";
+
+    # Storing value in variables
+    $f0=$f1;
+    $f1=$fn;
 }
 
 ?>
