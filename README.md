@@ -19,7 +19,7 @@ This repository contains programs in the PHP programming language.
 --> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
 --> Follow the setup wizard.<br><br>
 --> Create a new file with the extention of .php and then this file can be executed in the server.
-<h1>XAMPP</h1>
+<h2>XAMPP</h2>
 --> X is for Platform as it is platform independent and can run on any platform like Windows, MACOS, Linux or UNIX.<br><br>
 --> A stands for Apache Server.This is the server on which PHP compilation is done and output is seen.<br><br>
 --> M is for MySQL. MySQL is Structured Query Language Database. It is used to connect PHP to database and take input directly to the database.<br><br>
