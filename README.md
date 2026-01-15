@@ -10,12 +10,12 @@ This repository contains programs in the PHP programming language.
 
 ---
 
-# Mode of Execution Used:  <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> &nbsp; <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40">
+# Mode of Execution Used:  <img src="https://brandslogos.com/wp-content/uploads/images/large/visual-studio-code-logo.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> &nbsp; <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40">
 --> Since PHP is a server side scripting language, execution of PHP requires server.<br><br>
 --> XAMPP is used for accessing collected package for PHP.<br>
 
 <h2>Visual Studio Code</h2>
---> Visit the official website:&nbsp; <a href="https://code.visualstudio.com/download"><img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"></a><br><br>
+--> Visit the official website:&nbsp; <a href="https://code.visualstudio.com/download"><img src="https://brandslogos.com/wp-content/uploads/images/large/visual-studio-code-logo.png" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"></a><br><br>
 --> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
 --> Follow the setup wizard.<br><br>
 --> Create a new file with the extention of .php and then this file can be executed in the server.
