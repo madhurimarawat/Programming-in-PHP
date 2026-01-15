@@ -41,7 +41,7 @@ This repository contains programs in the PHP programming language.
 
 ---
 # Features of PHP
-<img src="https://static.javatpoint.com/phppages/images/php-features.png" height=400px width=620px>
+<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/11/Image-16-1160x768.png" height=400px width=620px>
 
 ---
 # Frameworks of PHP
@@ -54,4 +54,4 @@ This repository contains programs in the PHP programming language.
 Drop a 🌟 if you find this repository useful.<br><br>
 If you have any doubts or suggestions, feel free to reach me.<br><br>
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a>
+<a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a>
